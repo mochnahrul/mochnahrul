@@ -1,6 +1,6 @@
 ### Hi there! 👋 Welcome to my GitHub Profile!
 
-![Anime Banner](utils/acheron1.gif)
+![Anime Banner](https://github.com/mochnahrul/mochnahrul/blob/main/utils/acheron1.gif?raw=true)
 
 ---
 
@@ -44,4 +44,4 @@ A passionate **Software Engineer** currently working at **DevDat AI**.
 - 📷 [Instagram](https://instagram.com/moch_nahrul)
 - 💼 [LinkedIn](https://linkedin.com/in/mochnahrul)
 
-![Thank you for visiting!](utils/acheron2.gif)
+![Thank you for visiting!](https://github.com/mochnahrul/mochnahrul/blob/main/utils/acheron2.gif?raw=true)
